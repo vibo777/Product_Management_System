@@ -57,3 +57,7 @@ th,td{
 td{
     text-indent: 20px;
 }
+.update_form{
+    display: none;
+    margin-top: 50px;
+}
